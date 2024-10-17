@@ -1,7 +1,7 @@
 **QuickShut (Shutdown Timer)**  
 ---
 **Description**:  
-QuickShut is a shutdown timer that lets you set a custom countdown and force-close apps before shutting down. You can cancel anytime, and it features a sleek, real-time display. Useful for downloading gigabytes worth of games while you're asleep.
+QuickShut is a shutdown timer that lets you set a custom countdown and force-close apps before shutting down. You can cancel anytime, and it features a sleek, real-time display. Useful for downloading gigabytes worth of games or roblox exploiting while you're asleep.
 
 **Features**:
 - Set a custom countdown timer in hours, minutes, and seconds.
