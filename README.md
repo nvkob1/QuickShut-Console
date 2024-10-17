@@ -1,4 +1,5 @@
 **QuickShut**  
+---
 **Description**:  
 QuickShut is a simple yet powerful countdown timer that automatically shuts down your computer when the timer hits zero. With an intuitive interface and a visible countdown display, QuickShut lets you schedule a shutdown with precision. Cancel the shutdown at any time during the countdown with a single key press. Perfect for managing your computer’s shutdown after finishing tasks, downloads, or other activities, QuickShut ensures a smooth and automated shutdown experience.
 
